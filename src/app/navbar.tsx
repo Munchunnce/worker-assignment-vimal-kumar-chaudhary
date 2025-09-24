@@ -10,7 +10,9 @@ export default function Navbar() {
 
   return (
     <nav className="bg-gray-800 text-white px-6 py-4 flex justify-between items-center">
-      <h1 className="text-xl font-bold">Workers App</h1>
+      <Link href='/'>
+        <h1 className="text-xl font-bold">Workers App</h1>
+      </Link>
       <div className="flex gap-4 items-center">
         {/* <Link href="/workers" className="hover:text-gray-300">
           Workers
