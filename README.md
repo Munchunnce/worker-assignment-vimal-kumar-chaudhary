@@ -21,9 +21,8 @@ This app allows users to browse, filter, sort, and book workers for daily servic
 ---
 
 ## Demo
-![Workers Booking App Screenshot](public/worker-page.png)
-![Workers Booking App Screenshot](public/booked-worker.png)
-
+![Workers Booking App Screenshot](/worker-page.png)
+![Booked Workers Screenshot](/booked-worker.png)
 
 ---
 
