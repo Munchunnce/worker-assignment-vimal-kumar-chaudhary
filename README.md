@@ -132,8 +132,8 @@ npm start
 
 **Vimal Kumar Chaudhary**
 
-* GitHub: [https://github.com/yourusername](https://github.com/Munchunnce)
-* LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/vimal-kumar-chaudhary-7890961a6/)
+* GitHub: [https://github.com/Munchunnce]
+* LinkedIn: [https://www.linkedin.com/in/vimal-kumar-chaudhary-7890961a6/]
 
 ---
 
