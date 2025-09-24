@@ -1,5 +1,4 @@
 
-```markdown
 # Workers Booking App 🚀
 
 **A modern worker booking application built with Next.js and Redux Toolkit.**  
@@ -21,9 +20,8 @@ This app allows users to browse, filter, sort, and book workers for daily servic
 ---
 
 ## Demo
-![Workers Booking App Screenshot](https://raw.githubusercontent.com/Munchunnce/worker-assignment-vimal-kumar-chaudhary/main/public/worker-page.png)
-![Booked Workers Screenshot](https://raw.githubusercontent.com/Munchunnce/worker-assignment-vimal-kumar-chaudhary/main/public/booked-worker.png)
-
+![Workers Booking App Screenshot](/public/worker-page.png)
+![Booked Workers Screenshot](/public/booked-worker.png)
 
 ---
 
